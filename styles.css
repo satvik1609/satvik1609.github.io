@@ -202,6 +202,7 @@ button:hover {
   background-color: transparent;
   border: 2px solid #F9004d;
   cursor: pointer;
+  color: #fff;
 }
 
 .foorm form {
